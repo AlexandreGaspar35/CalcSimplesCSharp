@@ -1,0 +1,15 @@
+C:\dev\MinhaCalc\bin\Debug\net7.0\MinhaCalc.exe
+C:\dev\MinhaCalc\bin\Debug\net7.0\MinhaCalc.deps.json
+C:\dev\MinhaCalc\bin\Debug\net7.0\MinhaCalc.runtimeconfig.json
+C:\dev\MinhaCalc\bin\Debug\net7.0\MinhaCalc.dll
+C:\dev\MinhaCalc\bin\Debug\net7.0\MinhaCalc.pdb
+C:\dev\MinhaCalc\obj\Debug\net7.0\MinhaCalc.csproj.AssemblyReference.cache
+C:\dev\MinhaCalc\obj\Debug\net7.0\MinhaCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\MinhaCalc\obj\Debug\net7.0\MinhaCalc.AssemblyInfoInputs.cache
+C:\dev\MinhaCalc\obj\Debug\net7.0\MinhaCalc.AssemblyInfo.cs
+C:\dev\MinhaCalc\obj\Debug\net7.0\MinhaCalc.csproj.CoreCompileInputs.cache
+C:\dev\MinhaCalc\obj\Debug\net7.0\MinhaCalc.dll
+C:\dev\MinhaCalc\obj\Debug\net7.0\refint\MinhaCalc.dll
+C:\dev\MinhaCalc\obj\Debug\net7.0\MinhaCalc.pdb
+C:\dev\MinhaCalc\obj\Debug\net7.0\MinhaCalc.genruntimeconfig.cache
+C:\dev\MinhaCalc\obj\Debug\net7.0\ref\MinhaCalc.dll
